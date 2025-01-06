@@ -9,7 +9,7 @@
   <img src="https://github.com/k660323/ZombieSurvivor/blob/main/Images/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%83%B5.JPG" width="49%" height="300"/>
   <img src="https://github.com/k660323/ZombieSurvivor/blob/main/Images/%EC%9B%A8%EC%9D%B4%EB%B8%8C1_2.JPG" width="49%" height="300"/>
   <img src="https://github.com/k660323/ZombieSurvivor/blob/main/Images/5%20%EB%8B%A8%EA%B3%84.JPG" width="99%" height="600"/>
-  <img src="hhttps://github.com/k660323/ZombieSurvivor/blob/main/Images/10%20%EB%8B%A8%EA%B3%84.JPG" width="99%" height="600"/>
+  <img src="https://github.com/k660323/ZombieSurvivor/blob/main/Images/10%20%EB%8B%A8%EA%B3%84.JPG" width="99%" height="600"/>
   
   < 게임 플레이 사진 >
 </div>
